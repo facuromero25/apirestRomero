@@ -1,0 +1,31 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "meli",
+      "apellido": "pereyra",
+      "email": "meli@mail.com",
+      "password": "123456",
+      "token": "hjsdfJHFDSAFMsaDsan12sdanjjadashj3FDBEWH",
+      "role": "admin"
+    },
+    {
+      "nombre": "juan",
+      "apellido": "Perez",
+      "email": "juan@mail.com",
+      "password": "123456",
+      "token": "nmdsgfjhuMDKSAFJASDK327SJDKANjsadnsah",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "nombre": "Facundo",
+      "apellido": "romero",
+      "email": "facu@mail.com",
+      "password": "123456",
+      "token": "nmddssgfjhuMDKSAFJASDK327SJDKANjsadnsah",
+      "role": "user",
+      "id": 5
+    }
+  ]
+}
